@@ -1,8 +1,4 @@
 # flutter_nav_bug
 
-A new Flutter project.
+Demonstrates how resetting the initial route in an app does not correctly reset the view.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
